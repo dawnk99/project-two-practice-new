@@ -17,10 +17,11 @@ You will find this is far easier than the opposite task of using CSS to cram you
 * {
     box-sizing: border-box;
 }
-.lavishly-yours-regular {
-  font-family: "Lavishly Yours", cursive;
-  font-weight: 400;
+.poppins-thin {
+  font-family: "Poppins", serif;
+  font-weight: 100;
   font-style: normal;
+
 }
 
 html, body {
